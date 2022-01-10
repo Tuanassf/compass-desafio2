@@ -1,7 +1,7 @@
 # Api
 ## Descrição: Construir uma API de carteira de criptomoedas
 
-###Tecnologias utilizadas: sequelize, express, nodejs, js
+### Tecnologias utilizadas: sequelize, express, nodejs, js
 
 # O que funciona:
 - Criação da carteira
