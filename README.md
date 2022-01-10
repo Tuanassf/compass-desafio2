@@ -16,6 +16,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Features
 
+#### Endpoints
+
 - [x] Criação da carteira
 - [x] Listar todas as carteiras
 - [x] Listar uma determinada carteira
