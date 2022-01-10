@@ -12,19 +12,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Features
 
 - [x] Criação da carteira
-- [x] istar todas as carteiras
+- [x] Listar todas as carteiras
 - [x] Listar uma determinada carteira
 - [x] Exclusão de uma carteira
 - [ ] Adição/Remoção de fundo a carteira
 - [ ] Transferir fundos para outra carteira
 - [ ] Retornar histórico de movimentação de uma carteira
 - [ ] Validações
-
-# O que não funciona:
-- Adição/Remoção de fundo a carteira
-- Transferir fundos para outra carteira
-- Retornar histórico de movimentação de uma carteira
-- Validações
 
 ### Pré-requisitos
 
